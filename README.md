@@ -5,8 +5,10 @@
 Estas son las fechas de captura de las fotos:
 
 * Aéreas desde drone: 2024-12-26
-* A nivel de calle: YYYY-MM-DD
+* A nivel de calle: 2025-01-17
   * Secuencia en Mapillary:
+  * https://www.mapillary.com/app/user/angoca?lat=4.7626945&lng=-74.0424942&z=17&pKey=1652400482045165
+  * https://www.mapillary.com/app/user/angoca?lat=4.762843065841608&lng=-74.04227760370577&z=19.9&pKey=2480828445608049
 
 Hay diferente tipos de fotos:
 
